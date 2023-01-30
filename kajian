@@ -12,7 +12,7 @@ http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 https://h1.intechmedia.net/intech/ch2.m3u8
 #EXTINF:-8 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV 2
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
-#EXTINF:-11 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/DEI%20KIDS%20TV.png",DEI KIDS TV
+#EXTINF:-11 group-title="TV SUNNAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/DEI%20KIDS%20TV.png",DEI KIDS TV
 https://h1.intechmedia.net/intech/ch80.m3u8
 #EXTINF:-10 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
